@@ -12,6 +12,11 @@ Enter a city and click the magnifying glass to get your forecast results
 Add more cities by searching for other cities
 Click on any city saved to search for that city again
 
+### Link to deployed application
+
+https://shuyu-sun.github.io/week6-homework/
+
 ### Landing Page
 
-/Users/stella/Desktop/week6-homework/Assets/landing-page.png
+Assets/landing-page.png
+
